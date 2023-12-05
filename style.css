@@ -1,0 +1,385 @@
+body{
+    background-color: lightslategray!important ;
+    color: azure !important;
+}
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+main {
+    flex: 1;
+}
+
+.footer {
+    background-color: hsl(0, 0%, 5%);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+    font-weight: bold;
+
+}
+.my-photo{
+   
+
+    
+    
+
+        
+            width: 430px;
+            height: 430px;
+            text-shadow: 5px 5px 5px black; /* Adding a text shadow */
+            margin-top: 30px; /* Adjust the value as needed */
+        
+        
+    }
+    
+
+    
+    
+
+.title{
+    font-size :55px;
+    font-weight : bold
+}
+
+.icons-container{
+    font: 25px;
+    margin: 5px;
+}
+
+
+.Project-1{
+    width: 75%;
+    margin: auto;
+    border: 1px solid #001100;
+}
+.Project-250{
+    width: 75%;
+    margin: auto;
+    border: 1px solid #001100;
+    height: auto;
+
+}
+.Project-1777{
+    width: 75%;
+    margin: auto;
+    border: 1px solid #001100;
+}
+
+
+.even-1{
+    width: 100%;
+    
+    
+    height: auto;
+
+}
+
+
+
+
+.tech-btn {
+    color: white;
+    background-color: green;
+    padding: 7px;
+    margin: 6px;
+    border-radius: 7px;
+}
+
+
+
+
+.title{
+    color: greenyellow;
+    font-weight: bolder;
+}
+.st{
+    color: hsl(24, 100%, 2%);
+    font-weight: bolder;
+}
+.st2{
+    color:rgb(218, 218, 62);
+ font-weight: bolder;
+}
+
+.project-desc {
+    font-weight : bold
+}
+.project-desc1{
+    font-weight : bold
+}
+
+.SKILLS{
+    font-size: large;
+
+}
+
+
+.project-desc9{
+    font-weight: bold;
+}
+.project-desc8{
+    font-weight: bold;
+   
+   
+}
+.cour{
+    font-weight: bold;
+}
+.menubar-container{
+    color:hsl(240, 100%, 31%);
+    font-weight: bolder;
+    font-weight: bolder;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.icons-container a:hover{
+    color:orange;
+
+}
+
+.s{
+    color: yellow;
+    font-weight: bolder;
+}
+.s2{
+    color: hwb(309 0% 84%);
+    font-weight: bolder;
+}
+.s3{
+    color: hwb(261 2% 86%);
+    font-weight: bolder;
+}
+.s4{
+    color:rgb(98, 27, 2);
+    font-weight: bolder;
+    font-weight: bolder;
+}
+.s5{
+    color: greenyellow;
+    font-weight: bolder;
+}
+.k{
+    color: #17012c;
+    font-weight: bolder;
+}
+.n{
+    color: #011822;
+    font-weight: bolder;
+}
+.g{
+    color: hsl(63, 80%, 10%);
+    font-weight: bolder;
+
+}
+.a{
+    
+    color: lightcyan;
+   
+    font-weight: bolder;
+
+}
+.b{
+    color: yellow;
+    font-weight: bolder;
+}
+.c{
+    color: #0f0e0e;
+    font-weight: bolder;
+}
+.d{
+    color: #031668;
+    font-weight: bolder;
+}
+.e{
+    color:wheat;
+    font-weight: bolder;
+}
+.e11{
+    color:wheat;    font-weight: bolder;
+}
+.f1{
+    color:#90ec6e;
+    font-weight: bolder;
+}
+
+.gffffff{
+    color:rgb(1, 41, 49);
+    font-weight: bolder;
+}
+
+.v{
+    color: hsl(0, 84%, 7%);
+    font-weight: bolder;
+}
+.v1{
+    color: #011822;
+    font-weight: bolder;
+}
+.v2{
+    color: rgb(92, 0, 18);
+    font-weight: bolder;
+}
+.v3{
+    color: goldenrod;
+    font-weight: bolder;
+}
+
+.gb{
+    color: rgb(52, 14, 79);
+    font-weight: bolder;
+    font-weight: bolder;
+   
+}
+.op{
+    color:#5a170b ;
+    font-weight: bolder;
+}
+.ninja{
+    color:yellow;
+
+font-weight: bolder;}
+.st74{
+    color:hsl(18, 97%, 14%);
+    font-weight: bolder;
+
+}
+.f{
+    color:wheat;
+    font-weight: bolder;
+}
+
+.kom{
+    color: #0e4c37;
+    font-weight: bolder;
+}
+.gf{
+    color: yellow;
+    font-weight: bolder;
+    
+}
+.q{
+    color: antiquewhite;
+    font-weight: bolder;
+}
+.red{
+    color: hsl(0, 42%, 34%);
+    font-weight: bolder;
+    
+}
+.ninja12345678{
+    color: #2f0136;
+    font-weight: bolder;
+}
+.swwww{
+    color: rgb(135, 12, 112);
+    font-weight: bolder;
+
+}
+.about-section {
+    color: rgb(122, 2, 2);
+}
+.o{
+    color: whitesmoke;
+    font-weight: bolder;
+
+}
+.m{
+    color: whitesmoke;
+    font-weight: bolder;
+}
+.kb{
+    color: yellow;
+    font-weight: bolder;
+}
+.wsx{
+    color:rgb(7, 233, 7);
+    font-weight: bolder;
+}
+
+
+.g3{color:lightsalmon;
+    font-weight: bolder;
+
+}
+.g74{ color: rgb(3, 69, 46);
+    font-weight: bolder;
+
+}
+.g0{color: goldenrod;
+    font-weight: bolder;
+
+}
+.aa9{
+    color: lightgoldenrodyellow;
+    font-weight: bolder;
+
+}
+.aaaaaaaaaaaaa{
+    color:rgb(61, 9, 110);
+    font-weight: bolder;
+}
+.fcv{
+    color: #0f0e0e;
+    font-weight: bolder;
+}
+.cv{
+    color: yellow;
+    font-weight: bolder;
+}
+.iy{
+    color: #5a170b;
+    font-weight: bolder;
+}
+.fd{
+    color: wheat;
+    font-weight: bolder;
+}
+.ew{
+    color: rgb(6, 56, 56);
+    font-weight: bolder;
+}
