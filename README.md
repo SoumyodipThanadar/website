@@ -7,4 +7,4 @@ Project - Personal Portfolio Website.
 Language used - HTML AND CSS.
 Framework used - Bootstrap.
 Website Link : 
-https://soumyodipthanadar.netlify.app/
+https://soumyodipthanadar.github.io/website/
